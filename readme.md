@@ -161,17 +161,6 @@ CUDA_VISIBLE_DEVICES=$cuda python main_detect.py \
 
 > **Important**: Ensure that backdoor samples occupy the first half of your dataset, with benign samples in the second half.
 
----
-
-## 📈 Results & Performance
-
-Our method demonstrates superior performance across various attack scenarios:
-
-- **Style-based attacks**: Achieves 95%+ detection accuracy
-- **Multi-level triggers**: Robust performance across word, sentence, and syntactic attacks
-- **Advanced scenarios**: Effective against state-of-the-art backdoor techniques
-
-*Detailed results and analysis are available in our [paper](https://doi.org/10.1016/j.neunet.2025.108025).*
 
 ---
 
@@ -215,7 +204,4 @@ This project is licensed under the Apache2.0 License - see the [LICENSE](LICENSE
 <div align="center">
 
 **[Paper](https://doi.org/10.1016/j.neunet.2025.108025)** | **[arXiv](https://arxiv.org/abs/2509.05318)** | **[Code](https://github.com/pzq7025/BackdoorDetection)**
-
-*For questions or collaboration opportunities, please open an issue or contact the authors.*
-
 </div>
