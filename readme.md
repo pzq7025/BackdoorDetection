@@ -19,7 +19,7 @@
 
 ## 📖 Abstract
 
-This repository contains the implementation of **NETE** (perturbatioN discrEpancy consisTency Evaluation), a novel approach for detecting backdoor samples in pre-trained language models through perturbation discrepancy consistency analysis. Our method achieves state-of-the-art performance across multiple backdoor attack scenarios and datasets.
+This repository contains the implementation of **NETE** (perturbatio**N** discr**E**pancy consis**T**ency **E**valuation), a novel approach for detecting backdoor samples in pre-trained language models through perturbation discrepancy consistency analysis. Our method achieves state-of-the-art performance across multiple backdoor attack scenarios and datasets.
 
 <div align="center">
 <img src="assets/pipeline_processing-1.png" alt="NETE Pipeline" width="800"/>
