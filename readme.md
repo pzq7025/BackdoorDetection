@@ -1,4 +1,4 @@
-# NETE: Backdoor Detection via Perturbation Discrepancy Consistency
+# NETE: Backdoor Samples Detection Based on Perturbation Discrepancy Consistency in Pre-trained Language Models
 
 <div align="center">
 
@@ -160,7 +160,6 @@ CUDA_VISIBLE_DEVICES=$cuda python main_detect.py \
 ```
 
 > **Important**: Ensure that backdoor samples occupy the first half of your dataset, with benign samples in the second half.
-
 
 ---
 
